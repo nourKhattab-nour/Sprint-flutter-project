@@ -1,0 +1,15 @@
+------------------------------stateless-------------------------------
+//the stateless -> used for the hard coded pages as aboutus as the content come from the code.
+------------------------------staefull--------------------------------
+//the statefull -> used for the pages in which its content changes in reandering or any action on button or any thing else.
+------------------------------Buildcontext--------------------------------
+give me the info of when , how the widget or page bulid
+------------------------------color---------------------------------------
+colors.red/green/blue -> for RGB and any prdefined color
+color.(#2FF + hexdecimal color)   -> for any hexadecimal color "DON'T FORGET TO USE THE "2FF""
+------------------------------Font & Images---------------------------------------
+images.assets -> from local assets folder
+images.network -> from source or url
+"DON'T FORGET TO ADD THE FOLDER IN THE .yaml FILE ""
+SAME FOR FONTS
+
