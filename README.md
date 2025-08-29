@@ -15,7 +15,6 @@ This comprehensive Flutter project guides developers through the creation of a s
 - Product catalog with featured items and hot offers
 - Shopping cart functionality
 - Responsive and animated UI transitions
-- Arabic language localization support
 
 The project follows best practices in Flutter development, including proper file structures, modular widgets, and detailed documentation.
 
